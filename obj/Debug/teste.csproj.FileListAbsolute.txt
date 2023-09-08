@@ -1,0 +1,10 @@
+C:\Users\Wesley\source\repos\teste\teste\obj\Debug\teste.csproj.AssemblyReference.cache
+C:\Users\Wesley\source\repos\teste\teste\obj\Debug\teste.Form1.resources
+C:\Users\Wesley\source\repos\teste\teste\obj\Debug\teste.Properties.Resources.resources
+C:\Users\Wesley\source\repos\teste\teste\obj\Debug\teste.csproj.GenerateResource.cache
+C:\Users\Wesley\source\repos\teste\teste\obj\Debug\teste.csproj.CoreCompileInputs.cache
+C:\Users\Wesley\source\repos\teste\teste\bin\Debug\Sleeping Time.exe.config
+C:\Users\Wesley\source\repos\teste\teste\bin\Debug\Sleeping Time.exe
+C:\Users\Wesley\source\repos\teste\teste\bin\Debug\Sleeping Time.pdb
+C:\Users\Wesley\source\repos\teste\teste\obj\Debug\Sleeping Time.exe
+C:\Users\Wesley\source\repos\teste\teste\obj\Debug\Sleeping Time.pdb

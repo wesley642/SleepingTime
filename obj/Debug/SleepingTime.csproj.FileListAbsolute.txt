@@ -1,0 +1,10 @@
+C:\Users\Wesley\Desktop\Sleeping-Time-Auto\bin\Debug\Sleeping Time.exe.config
+C:\Users\Wesley\Desktop\Sleeping-Time-Auto\bin\Debug\Sleeping Time.exe
+C:\Users\Wesley\Desktop\Sleeping-Time-Auto\bin\Debug\Sleeping Time.pdb
+C:\Users\Wesley\Desktop\Sleeping-Time-Auto\obj\Debug\SleepingTime.csproj.AssemblyReference.cache
+C:\Users\Wesley\Desktop\Sleeping-Time-Auto\obj\Debug\teste.SleepingTime.resources
+C:\Users\Wesley\Desktop\Sleeping-Time-Auto\obj\Debug\teste.Properties.Resources.resources
+C:\Users\Wesley\Desktop\Sleeping-Time-Auto\obj\Debug\SleepingTime.csproj.GenerateResource.cache
+C:\Users\Wesley\Desktop\Sleeping-Time-Auto\obj\Debug\SleepingTime.csproj.CoreCompileInputs.cache
+C:\Users\Wesley\Desktop\Sleeping-Time-Auto\obj\Debug\Sleeping Time.exe
+C:\Users\Wesley\Desktop\Sleeping-Time-Auto\obj\Debug\Sleeping Time.pdb
